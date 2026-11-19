@@ -1,0 +1,30 @@
+{
+  "name": "MoneyWiz",
+  "url": "https://www.wiz.money/black-friday",
+  "description": "Personal finance for Mac, iPhone and iPad: budgets, bill forecasts, reports, investments and optional bank sync",
+  "category": "business",
+  "platforms": ["mac", "ios", "ipad", "watch"],
+  "deal": "20% off first year of Standard and Premium, code BFCM26",
+  "code": "BFCM26",
+  "pricing": "subscription",
+  "price": { "regular": 29.99, "sale": 23.99, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-13",
+  "endDate": "2026-12-01",
+  "icon": "https://www.wiz.money/images/moneywiz-mark.png"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
